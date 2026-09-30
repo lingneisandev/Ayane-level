@@ -1,4 +1,4 @@
-# AeroX Leveling System
+# Ayane Leveling System
 
 A high-performance, aesthetically driven Discord leveling and engagement bot built for the modern era. Featuring **Discord Components V2**, advanced canvas rendering, and a robust data architecture — with blazing-fast response times and automated synchronization.
 
